@@ -1,0 +1,25 @@
+#navbar {
+    background-color: #E5E6E4;
+    height: auto;
+    width: auto;
+}
+
+#breadcrumbs {
+
+    a {
+    font-size: 24px;
+    text-decoration: none;
+    color: #847577;
+    position: relative;
+    }
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+        justify-content: space-between;
+    }
+}
+
+body {
+    background-color: #FBFBF2;
+}
