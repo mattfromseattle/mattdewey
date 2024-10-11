@@ -1,5 +1,5 @@
 #navbar {
-    background-color: #E5E6E4;
+    background-color: #847577;
     height: auto;
     width: auto;
 }
@@ -7,10 +7,10 @@
 #breadcrumbs {
 
     a {
-    font-size: 24px;
-    text-decoration: none;
-    color: #847577;
-    position: relative;
+        font-size: 24px;
+        text-decoration: none;
+        color: #FBFBF2;
+        position: relative;
     }
 
     li {
@@ -22,4 +22,17 @@
 
 body {
     background-color: #FBFBF2;
+    background-image: url("/images/aab635fcddcd5d3ac009bf71dfcb1d65.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    #welcome {
+        font-size: 24px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #FBFBF2;
+
+        #avatar {
+            position: static;
+        }
+    }
 }
